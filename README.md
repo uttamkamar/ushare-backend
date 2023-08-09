@@ -43,6 +43,14 @@ uShare is a simple and lightweight web application that allows you to easily sha
 1. Create a `.env` file in the root directory based on the `.env.example` template.
 2. Set your environment variables in the `.env` file, including email configurations, MongoDB connection, etc.
 
+## Screenshots
+
+- Download Page
+  ![Download-page](./screenshot/Screenshot1.png)
+
+- Email Template
+  ![Email-template](./screenshot/Screenshot2.png)
+
 ## Contributing
 
 If you'd like to contribute to uShare, feel free to submit a pull request. We welcome contributions!
