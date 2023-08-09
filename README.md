@@ -2,15 +2,15 @@
 
 uShare is a simple and lightweight web application that allows you to easily share files with anyone. With uShare, you can upload a file, generate a shareable link that is valid for 24 hours, and optionally send an automated email containing the download link to the recipient. The app is built using Node.js and utilizes various libraries for its functionality.
 
-### This is just the backend for frontend check the repository: `git clone https://github.com/your-username/ushare.git`
+#### This is just the backend for frontend check the repository: `https://github.com/uttamkamar/ushare-backend.git`
 
 ## Features
 
-👉👉 - Upload files up to 100MB in size.
-👉👉 - Generate shareable links that expire after 24 hours.
-👉👉 - Send download links via email to recipients.
-👉👉 - Simple and intuitive user interface.
-👉👉 - Built-in styling using CSS.
+- Upload files up to 100MB in size.
+- Generate shareable links that expire after 24 hours.
+- Send download links via email to recipients.
+- Simple and intuitive user interface.
+- Built-in styling using CSS.
 
 ## Dependencies
 
@@ -29,7 +29,7 @@ uShare is a simple and lightweight web application that allows you to easily sha
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ushare.git`
+1. Clone the repository: `git clone https://github.com/uttamkamar/ushare-backend.git`
 2. Navigate to the project directory: `cd ushare`
 3. Install dependencies: `npm install`
 
@@ -42,10 +42,6 @@ uShare is a simple and lightweight web application that allows you to easily sha
 
 1. Create a `.env` file in the root directory based on the `.env.example` template.
 2. Set your environment variables in the `.env` file, including email configurations, MongoDB connection, etc.
-
-## Screenshots
-
-Insert screenshots of your application here.
 
 ## Contributing
 
